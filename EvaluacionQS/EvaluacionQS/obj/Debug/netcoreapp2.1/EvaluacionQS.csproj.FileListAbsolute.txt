@@ -1,0 +1,17 @@
+C:\Users\vector\Desktop\PROYECTO DE EJEMPLO\Evaluacion Practica QS\EvaluacionQS\EvaluacionQS\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\vector\Desktop\PROYECTO DE EJEMPLO\Evaluacion Practica QS\EvaluacionQS\EvaluacionQS\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\vector\Desktop\PROYECTO DE EJEMPLO\Evaluacion Practica QS\EvaluacionQS\EvaluacionQS\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\vector\Desktop\PROYECTO DE EJEMPLO\Evaluacion Practica QS\EvaluacionQS\EvaluacionQS\bin\Debug\netcoreapp2.1\EvaluacionQS.deps.json
+C:\Users\vector\Desktop\PROYECTO DE EJEMPLO\Evaluacion Practica QS\EvaluacionQS\EvaluacionQS\bin\Debug\netcoreapp2.1\EvaluacionQS.runtimeconfig.json
+C:\Users\vector\Desktop\PROYECTO DE EJEMPLO\Evaluacion Practica QS\EvaluacionQS\EvaluacionQS\bin\Debug\netcoreapp2.1\EvaluacionQS.runtimeconfig.dev.json
+C:\Users\vector\Desktop\PROYECTO DE EJEMPLO\Evaluacion Practica QS\EvaluacionQS\EvaluacionQS\bin\Debug\netcoreapp2.1\EvaluacionQS.dll
+C:\Users\vector\Desktop\PROYECTO DE EJEMPLO\Evaluacion Practica QS\EvaluacionQS\EvaluacionQS\bin\Debug\netcoreapp2.1\EvaluacionQS.pdb
+C:\Users\vector\Desktop\PROYECTO DE EJEMPLO\Evaluacion Practica QS\EvaluacionQS\EvaluacionQS\obj\Debug\netcoreapp2.1\EvaluacionQS.csproj.CoreCompileInputs.cache
+C:\Users\vector\Desktop\PROYECTO DE EJEMPLO\Evaluacion Practica QS\EvaluacionQS\EvaluacionQS\obj\Debug\netcoreapp2.1\EvaluacionQS.RazorAssemblyInfo.cache
+C:\Users\vector\Desktop\PROYECTO DE EJEMPLO\Evaluacion Practica QS\EvaluacionQS\EvaluacionQS\obj\Debug\netcoreapp2.1\EvaluacionQS.RazorAssemblyInfo.cs
+C:\Users\vector\Desktop\PROYECTO DE EJEMPLO\Evaluacion Practica QS\EvaluacionQS\EvaluacionQS\obj\Debug\netcoreapp2.1\EvaluacionQS.AssemblyInfoInputs.cache
+C:\Users\vector\Desktop\PROYECTO DE EJEMPLO\Evaluacion Practica QS\EvaluacionQS\EvaluacionQS\obj\Debug\netcoreapp2.1\EvaluacionQS.AssemblyInfo.cs
+C:\Users\vector\Desktop\PROYECTO DE EJEMPLO\Evaluacion Practica QS\EvaluacionQS\EvaluacionQS\obj\Debug\netcoreapp2.1\EvaluacionQS.RazorTargetAssemblyInfo.cache
+C:\Users\vector\Desktop\PROYECTO DE EJEMPLO\Evaluacion Practica QS\EvaluacionQS\EvaluacionQS\obj\Debug\netcoreapp2.1\EvaluacionQS.dll
+C:\Users\vector\Desktop\PROYECTO DE EJEMPLO\Evaluacion Practica QS\EvaluacionQS\EvaluacionQS\obj\Debug\netcoreapp2.1\EvaluacionQS.pdb
+C:\Users\vector\Desktop\PROYECTO DE EJEMPLO\Evaluacion Practica QS\EvaluacionQS\EvaluacionQS\obj\Debug\netcoreapp2.1\EvaluacionQS.genruntimeconfig.cache
